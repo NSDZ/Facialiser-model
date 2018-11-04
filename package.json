@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NSDZ/Facialiser-model/issues"
   },
-  "homepage": "https://github.com/NSDZ/Facialiser-model#readme"
+  "homepage": "https://github.com/NSDZ/Facialiser-model#readme",
+  "dependencies": {
+    "fast-csv": "^2.4.1"
+  }
 }
