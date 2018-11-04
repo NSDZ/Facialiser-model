@@ -1,0 +1,19 @@
+{
+  "name": "facialiser-model",
+  "version": "1.0.0",
+  "description": "training a clarifAI model to understand facial expressions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NSDZ/Facialiser-model.git"
+  },
+  "author": "Nassim sbaihia (@Nsdz)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NSDZ/Facialiser-model/issues"
+  },
+  "homepage": "https://github.com/NSDZ/Facialiser-model#readme"
+}
