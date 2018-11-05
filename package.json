@@ -4,7 +4,8 @@
   "description": "training a clarifAI model to understand facial expressions",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,8 @@
   },
   "homepage": "https://github.com/NSDZ/Facialiser-model#readme",
   "dependencies": {
-    "fast-csv": "^2.4.1"
+    "clarifai": "^2.9.0",
+    "fast-csv": "^2.4.1",
+    "imgur-uploader": "^4.2.1"
   }
 }
